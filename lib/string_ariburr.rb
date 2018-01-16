@@ -1,4 +1,5 @@
 require "string_ariburr/version"
+require "string_ariburr/greetings"
 
 module StringAriburr
 
